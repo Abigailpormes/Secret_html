@@ -1,0 +1,20 @@
+body {
+    font-family: system-ui;
+    color: pink;
+    background-color: grey;
+}
+header {
+    text-align: center;
+}
+
+/* body section {
+    float: right;
+    width: 65%;
+}
+body aside {
+    float: left;
+    width: 30%;
+}
+main {
+    clear:both
+} */
